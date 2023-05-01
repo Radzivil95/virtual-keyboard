@@ -1,0 +1,52 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.textarea {
+  width: 100%;
+}
+
+.row {
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.row__symbol {
+  background-color: #474a50;
+  border-radius: 5px;
+  color: #fff;
+  border: 1px solid #ccc;
+  padding: 25px 30px;
+  cursor: pointer;
+}
+
+.space {
+  width: 400px;
+  text-align: center;
+}
+
+.enter {
+  width: 100px;
+  text-align: center;
+}
+
+.backspace {
+  width: 100px;
+  text-align: center;
+}
+
+.shift {
+  width: 70px;
+  text-align: center;
+}
+
+.del,
+.tab {
+  width: 50px;
+  text-align: center;
+}
+
+.caps {
+  width: 100px;
+}
